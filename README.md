@@ -1,3 +1,2 @@
 # 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VigneriDavide)](https://github.com/anuraghazra/github-readme-stats)
+I started my data science career in 2022, and the repositories you find on this GitHub account are the results of my ongoing efforts in this field.
