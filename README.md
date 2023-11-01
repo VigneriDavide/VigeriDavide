@@ -1,16 +1,17 @@
-### Davide Vigneri
-#### Data Scietist
+<h1 align="center">Davide Vigneri </h1>
+
+<h3 align="center">Data Scientist, student at Sapienza University (Rome)</h3>
+
 I started my data science career in 2022, and the repositories you find on this GitHub account are the results of my ongoing efforts in this field.
 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"  />
 </div>
 
-<div align="center">
-<img src= "https://example.com/python-logo.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1869px-Python-logo-notext.svg.png&tbnid=sJfZ5uC9VoHeTM&vet=12ahUKEwii9tnu96OCAxXynv0HHefUDf4QMygAegQIARBM..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&docid=UsVbBfpzLC7enM&w=1869&h=2048&q=python%20logo&ved=2ahUKEwii9tnu96OCAxXynv0HHefUDf4QMygAegQIARBM)https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1869px-Python-logo-notext.svg.png&tbnid=sJfZ5uC9VoHeTM&vet=12ahUKEwii9tnu96OCAxXynv0HHefUDf4QMygAegQIARBM..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&docid=UsVbBfpzLC7enM&w=1869&h=2048&q=python%20logo&ved=2ahUKEwii9tnu96OCAxXynv0HHefUDf4QMygAegQIARBM" width="100">
-<img src= "https://example.com/tensorflow-logo.png" width="100">
-<img src= "https://example.com/r-logo.png" width="100">
-<img src= "https://example.com/sql-logo.png" width="100">
-<img src=  "https://example.com/neo4j-logo.png" width="100">
-<img src=  "https://example.com/aws-logo.png" width="100">
-<img src= "https://example.com/docker-logo.png" width="100">
+
+- 📫 How to reach me **davidevigneri00@gmail.com**
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/davide-vigneri-59a56021a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davide-vigneri-59a56021a/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
