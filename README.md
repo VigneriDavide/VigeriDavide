@@ -18,4 +18,4 @@ I started my data science career in 2022, and the repositories you find on this 
 
 <div
 📫 How to reach me **davidevigneri00@gmail.com**
-</div>
+/div>
