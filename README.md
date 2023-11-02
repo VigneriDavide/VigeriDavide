@@ -18,12 +18,14 @@ I started my data science career in 2022, and the repositories you find on this 
 ### Framework
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyr-1A162D?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Hydra](https://img.shields.io/badge/hydra-319795?style=for-the-badge&logo=dungeonsanddragons&logoColor=white)
-![Wandb](https://img.shields.io/badge/Wandb-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 
