@@ -12,7 +12,7 @@ I started my data science career in 2022, and the repositories you find on this 
 	
 
 [![Search Engine](https://img.shields.io/badge/Search%20Engine-4285F4?style=for-the-badge&logo=roamresearch)](https://github.com/VigneriDavide/Search-Engine-for-Travelers)
-[![Fall Detection](https://img.shields.io/badge/Fall%20Detection-#FECC00?style=for-the-badge&logo=allocine)](https://github.com/VigneriDavide/Search-Engine-for-Travelers)
+[![Fall Detection](https://img.shields.io/badge/Fall%20Detection-FECC00?style=for-the-badge&logo=allocine)](https://github.com/VigneriDavide/Search-Engine-for-Travelers)
 
 
 ### Framework
