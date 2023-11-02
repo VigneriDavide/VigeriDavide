@@ -30,6 +30,6 @@ I started my data science career in 2022, and the repositories you find on this 
 
 ### My Contacts
 
-![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "davidevigneri00@gmail.com.com")
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidevigneri00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-vigneri-59a56021a/)
 
