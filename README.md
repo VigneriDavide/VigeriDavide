@@ -17,7 +17,7 @@ I started my data science career in 2022, and the repositories you find on this 
 [![Federated Learning](https://img.shields.io/badge/Federated%20Learning-A100FF?style=for-the-badge&logo=awsorganizations)](https://github.com/VigneriDavide/federated-learning-framework-analysisfederated-learning-framework-analysis)
 [![Marvel Social Network](https://img.shields.io/badge/Marvel%20Social%20Network-FF2D20?style=for-the-badge&logo=marvelapp)](https://github.com/VigneriDavide/Marvel-Social-Network
 )
-[![Brain Oxygenation Levels ](https://img.shields.io/badge/Brain%20Oxygenation%20Levels-002157?style=for-the-badge&logo=clion)](https://github.com/VigneriDavide/ASD-brain-oxygenation-Analysis)
+[![Brain Oxygenation Levels ](https://img.shields.io/badge/Brain%20Oxygenation%20Levels-002157?style=for-the-badge&logo=neutralinojs)](https://github.com/VigneriDavide/ASD-brain-oxygenation-Analysis)
 
 
 
