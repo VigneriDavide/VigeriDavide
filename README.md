@@ -8,6 +8,12 @@ I started my data science career in 2022, and the repositories you find on this 
  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width=600 />
 </div>
 
+### Main Projects
+	
+[![](https://custom-icon-badges.demolab.com/badge/lyrics_evolution-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]()
+[![](https://custom-icon-badges.demolab.com/badge/object_counting-008B8B?style=for-the-badge&logo=galaxy)]()
+[![](https://custom-icon-badges.demolab.com/badge/self_supervised_learning-F64935?style=for-the-badge&logo=git-extensions)]()
+[![](https://img.shields.io/badge/rider_scores-CC0000?style=for-the-badge&logo=ducati&logoColor=white)]()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
