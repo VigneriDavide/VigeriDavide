@@ -11,8 +11,7 @@ I started my data science career in 2022, and the repositories you find on this 
 ### Main Projects
 	
 
-[![]([https://custom-icon-badges.demolab.com/badge/object_counting-008B8B?style=for-the-badge&logo=galaxy](https://img.shields.io/badge/Tesla-text-CC0000?style-for-the-badge&logo-Tesla))]()
-
+![_alt_text_](https://img.shields.io/badge/Tesla-text-CC0000?style-for-the-badge&logo=Tesla)
 
 ### Framework
 
