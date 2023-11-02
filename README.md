@@ -11,7 +11,7 @@ I started my data science career in 2022, and the repositories you find on this 
 ### Main Projects
 	
 
-![_alt_text_](https://img.shields.io/badge/Tesla-text-CC0000?style-for-the-badge&logo=Tesla)
+![_alt_text_](https://img.shields.io/badge/Tesla-C-CC0000?style-for-the-badge&logo=Tesla)
 
 ### Framework
 
