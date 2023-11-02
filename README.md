@@ -1,6 +1,6 @@
 <h1 align="center">Davide Vigneri </h1>
 
-<h3 align="center">Data Scientist, student at Sapienza University (Rome)</h3>
+<h3 align="center">Data Scientist</h3>
 
 I started my data science career in 2022, and the repositories you find on this GitHub are the results of my ongoing efforts in this field.
 
