@@ -1,4 +1,4 @@
-<h1 align="center">Davide Vigneri </h1>
+d<h1 align="center">Davide Vigneri </h1>
 
 <h3 align="center">Data Scientist</h3>
 
@@ -10,7 +10,7 @@ I started my data science career in 2022, and the repositories you find on this 
 
 ### Main Projects
 	
-[![](https://custom-icon-badges.demolab.com/badge/lyrics_evolution-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]()
+![ alt text ](https://img.shields.io/badge/SerchEngine-text-CC0000?style-for-the-badge&logo-Tesla)
 [![](https://custom-icon-badges.demolab.com/badge/object_counting-008B8B?style=for-the-badge&logo=galaxy)]()
 [![](https://custom-icon-badges.demolab.com/badge/self_supervised_learning-F64935?style=for-the-badge&logo=git-extensions)]()
 [![](https://img.shields.io/badge/rider_scores-CC0000?style=for-the-badge&logo=ducati&logoColor=white)]()
