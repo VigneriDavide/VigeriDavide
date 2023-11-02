@@ -12,9 +12,9 @@ I started my data science career in 2022, and the repositories you find on this 
 	
 
 [![Search Engine](https://img.shields.io/badge/Search%20Engine-4285F4?style=for-the-badge&logo=roamresearch)](https://github.com/VigneriDavide/Search-Engine-for-Travelers)
-[![Fall Detection](https://img.shields.io/badge/Fall%20Detection-FECC00?style=for-the-badge&logo=allocine)](https://github.com/VigneriDavide/Search-Engine-for-Travelers)
-[![Customers Clustering](https://img.shields.io/badge/Customers%20Clustering-428813?style=for-the-badge&logo=clion)](https://github.com/VigneriDavide/Search-Engine-for-Travelers)
-[![Federated Learning](https://img.shields.io/badge/Federated%20Learning-A100FF?style=for-the-badge&logo=awsorganizations)](https://github.com/VigneriDavide/Search-Engine-for-Travelers)
+[![Fall Detection](https://img.shields.io/badge/Fall%20Detection-FECC00?style=for-the-badge&logo=allocine)](https://github.com/VigneriDavide/Fall_or_not_to_fall)
+[![Customers Clustering](https://img.shields.io/badge/Customers%20Clustering-428813?style=for-the-badge&logo=clion)](https://github.com/VigneriDavide/Clustering-Bank-Customers)
+[![Federated Learning](https://img.shields.io/badge/Federated%20Learning-A100FF?style=for-the-badge&logo=awsorganizations)](https://github.com/VigneriDavide/federated-learning-framework-analysisfederated-learning-framework-analysis)
 
 
 ### Framework
