@@ -8,7 +8,8 @@ I started my data science career in 2022, and the repositories you find on this 
 <div align="center">
  <img src="" width=600 />
 </div> -->
-...
+<hr style="border: 1px solid #000; margin: 10px 0;">
+
 ### Main Projects
 	
 
