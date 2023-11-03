@@ -21,6 +21,7 @@ I started my data science career in 2022, and the repositories you find on this 
 )
 [![Brain Oxygenation Levels ](https://img.shields.io/badge/Brain%20Oxygenation%20Levels-002157?style=for-the-badge&logo=neutralinojs)](https://github.com/VigneriDavide/ASD-brain-oxygenation-Analysis)
 
+<hr style="border: 1px solid #000; margin: 10px 0;">
 
 
 ### Tools
@@ -35,6 +36,7 @@ I started my data science career in 2022, and the repositories you find on this 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
+<hr style="border: 1px solid #000; margin: 10px 0;">
 
 
 
