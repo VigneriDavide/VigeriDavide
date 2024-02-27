@@ -20,7 +20,7 @@ I started my data science career in 2022, and the repositories you find on this 
 [![Marvel Social Network](https://img.shields.io/badge/Marvel%20Social%20Network-FF2D20?style=for-the-badge&logo=marvelapp)](https://github.com/VigneriDavide/Marvel-Social-Network
 )
 [![Brain Oxygenation Levels ](https://img.shields.io/badge/Brain%20Oxygenation%20Levels-002157?style=for-the-badge&logo=neutralinojs)](https://github.com/VigneriDavide/ASD-brain-oxygenation-Analysis)
-[![Linguistic Analysis of Politic Subreddits](https://img.shields.io/badge/%20%20%20-Linguistic%20Analysis%20of%20Politic%20Subreddits-white?style=flat-square&logo=reddit&labelColor=white&color=lightgray)
+[![Linguistic Analysis of Politic Subreddits](https://img.shields.io/badge/%20Linguistic%20Analysis%20of%20Politic%20Subreddits-white?style=flat-square&logo=reddit&labelColor=white&color=lightgray)
 
 
 <hr style="border: 1px solid #000; margin: 10px 0;">
