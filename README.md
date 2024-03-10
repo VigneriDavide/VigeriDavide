@@ -22,7 +22,7 @@ I started my data science career in 2022, and the repositories you find on this 
 [![Brain Oxygenation Levels ](https://img.shields.io/badge/Brain%20Oxygenation%20Levels-002157?style=for-the-badge&logo=neutralinojs)](https://github.com/VigneriDavide/ASD-brain-oxygenation-Analysis)
 [![Linguistic Analysis of Politic Subreddits](https://img.shields.io/badge/Linguistic%20Analysis%20of%20Politic%20Subreddits-white?style=for-the-badge&logo=reddit&labelColor=white&color=lightgray)](https://github.com/VigneriDavide/)
 [![Pokemon Relationships in SQL and Neo4J](https://img.shields.io/badge/Pokemon%20Relationships%20in%20SQL%20and%20Neo4J-black?style=for-the-badge&logo=pok%C3%A9mon&logoColor=red&labelColor=lightyellow&color=lightyellow)](https://github.com/VigneriDavide/)
-[![Kaggle_CERN_anomaly_detection](https://img.shields.io/badge/Kaggle%20CERN%20Anomaly%20Detection-002157?style=for-the-badge&logo=kaggle&labelColor=lightblue&color=lightblue)](https://github.com/VigneriDavide/HACKATON-LHC-alert-detection)
+[![Kaggle_CERN_anomaly_detection](https://img.shields.io/badge/Kaggle%20CERN%20Anomaly%20Detection-002157?style=for-the-badge&logo=kaggle&labelColor=white&color=lightblue)](https://github.com/VigneriDavide/HACKATON-LHC-alert-detection)
 
 
 
